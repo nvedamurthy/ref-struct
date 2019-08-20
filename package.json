@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "debug": "4",
-    "ref": "git+https://github.com/aabuhijleh/ref#master"
+    "ref": "git+https://github.com/aabuhijleh/ref#54c5638e2e7aa9f45e92e6c17c96fcd7de2068dd"
   },
   "devDependencies": {
     "bindings": "~1.5.0",
